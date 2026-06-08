@@ -94,7 +94,3 @@ cleanlab
 - [CTGAN Paper](https://arxiv.org/abs/1907.00503)
 - [Spectral Signatures (Tran et al.)](https://arxiv.org/abs/1811.00636)
 - [Cleanlab](https://github.com/cleanlab/cleanlab)
-
-## Лицензия
-
-MIT
